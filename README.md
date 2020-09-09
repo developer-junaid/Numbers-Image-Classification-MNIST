@@ -1,4 +1,4 @@
-# MNIST-Numbers-Image-Classification
+# Numbers Image Classification using MNIST Dataset
 ### *Short python jupyter script, for training Deep learning model for MNIST Dataset about Numbers classification from images and it's evaluation.*
 
 
